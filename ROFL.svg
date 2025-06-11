@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="35.3cm" height="31.7cm" version="1.1" viewBox="0 0 1000 900">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #faaff3;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #000;
+      }
+
+      .cls-3 {
+        fill: #9b00dc;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M950,100v-50h-50V0h-250v50h-50v50h-200v-50h-50V0H100v50h-50v50H0v100h50v50h50v50h-50v150h50v50h50v50h-50v50h-50v100h50v50h-50v100h200v50h150v-50h50v-50h100v50h50v50h150v-50h200v-100h-50v-50h50v-100h-50v-50h-50v-50h50v-50h50v-150h-50v-50h50v-50h50v-100h-50Z"/>
+  <path class="cls-4" d="M900,150h-50v50h-150v-50h-100v50h50v50h250v-50h50v-50h-50Z"/>
+  <path class="cls-4" d="M300,150v50h-150v-50H50v50h50v50h250v-50h50v-50h-100Z"/>
+  <path class="cls-3" d="M850,50h-200v50h250v-50h-50Z"/>
+  <path class="cls-3" d="M500,250h100v-50h-50v-50h-100v50h-50v50h100Z"/>
+  <path class="cls-3" d="M200,100h150v-50H100v50h100Z"/>
+  <path class="cls-3" d="M450,650v100h100v-100h-100Z"/>
+  <path class="cls-3" d="M800,600v-100H200v100h-100v100h100v50h-100v50h150v-150h50v150h-50v50h150v-200h50v-50h100v50h50v200h150v-50h-50v-150h50v150h150v-50h-100v-50h100v-100h-100Z"/>
+  <path class="cls-1" d="M850,300H100v150h800v-150h-50ZM850,400H150v-50h700v50Z"/>
+</svg>
